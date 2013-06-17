@@ -1,0 +1,14 @@
+{
+  "name": "Context Menu Test",
+  "version": "1.0",
+  "description": "Test Context Menu",
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "contextMenus"
+  ],
+  "manifest_version": 2
+}

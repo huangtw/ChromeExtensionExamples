@@ -1,0 +1,13 @@
+{
+  "name": "Hello World",
+  "version": "1.0",
+  "description": "Testing...",
+  "background": {
+    "scripts": [
+    	"helloA.js",
+    	"helloB.js",
+    	"helloC.js"
+    ]
+  },
+  "manifest_version": 2
+}

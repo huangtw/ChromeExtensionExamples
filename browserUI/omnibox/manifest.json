@@ -1,0 +1,17 @@
+{
+  "name": "Omnibox Test",
+  "version": "1.0",
+  "description": "Test Omnibox",
+  "omnibox": {
+    "keyword" : "test"
+  },
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "tabs"
+  ],
+  "manifest_version": 2
+}

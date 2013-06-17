@@ -1,0 +1,17 @@
+{
+  "name": "Desktop Notification Test",
+  "version": "1.0",
+  "description": "Test Desktop Notification",
+  "web_accessible_resources": [
+    "notification.png"
+  ],
+  "background": {
+    "scripts": [
+      "background.js"
+    ]
+  },
+  "permissions": [
+    "notifications"
+  ],
+  "manifest_version": 2
+}

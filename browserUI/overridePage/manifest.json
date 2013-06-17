@@ -1,0 +1,9 @@
+{
+  "name": "Override Page Test",
+  "version": "1.0",
+  "description": "Test Override Page",
+  "chrome_url_overrides" : {
+    "newtab": "newTab.html"
+  },
+  "manifest_version": 2
+}
